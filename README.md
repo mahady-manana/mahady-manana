@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! Welcome To my Git Repository 👋
 
-<!--
-**mahady-manana/mahady-manana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mahady Manana** is a Javascript and Typescript Developer work primarly with Reactjs to create amizing, robust and modern web application.
 
-Here are some ideas to get you started:
+#### What framework and library I use?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a React Developer a build an application with the following framework/library :
+
+1. Reactjs from scratch (with Webpack, Babel, ...)
+2. Nextjs
+3. Gatsby
+4. MongoDB as my favorite NoSQL Database
+5. Nodejs 
+6. And more
+
+If you are interested to work with me feel free to contact me on LinkedIn or directly email me.
