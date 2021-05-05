@@ -4,7 +4,7 @@
 
 #### What framework and library I use?
 
-As a React Developer a build an application with the following framework/library :
+As a React Developer, I build an application with the following framework/library :
 
 1. Reactjs from scratch (with Webpack, Babel, ...)
 2. Nextjs
