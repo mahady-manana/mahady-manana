@@ -2,6 +2,7 @@
 
 **Mahady Manana** is a Javascript and Typescript Developer work primarly with Reactjs to create amizing, robust and modern web application.
 
+	https://img.shields.io/twitter/url?style=for-the-badge&url=%2Ftwitter%2Furl%3Furl%3Dhttps%253A%252F%252Fshields.io
 #### What Programming languages and framework I use?
 
 ### Languages
