@@ -1,7 +1,7 @@
 ### Hi! 👋
 
-**Mahady Manana** is a Javascript and Typescript Developer work primarly with Reactjs to create amazing, robust and modern web application.
+My name is **Mahady Manana** is a Javascript and Typescript Developer 
 
-I am the Founder of [B-Devcom](www.betatuto.com), an open source documentation for JavaScript and TypeScript. 
+I love to create amazing, robust and modern web application.
 
 If you are interested to work with me feel free to contact me on LinkedIn or directly email me.
