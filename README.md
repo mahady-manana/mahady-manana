@@ -1,31 +1,43 @@
-Hi! 👋
-I'm **Mahady Manana**, a passionate Fullstack Developer TypeScript - NodeJS/NextJS with over 6 years of experience building scalable web applications.
+# Hi, I'm Mahady Manana 👋
+**Fullstack Web Developer · Node.js · React.js · Next.js · NestJS**
 
+---
 
-I enjoy sharing simple but effective programming tips like this one to help other developers write cleaner and smarter code.
+I am an experienced web developer with **6 years of expertise** in building modern web and mobile applications using **React.js, Next.js, NestJS, and Node.js**.  
 
-If you're interested in working with me, feel free to connect on **LinkedIn** or email me directly.
+I help companies **design, develop, and scale reliable, high-performance applications**.
 
-🌍 **Location**: 
+---
 
-Antananarivo, Madagascar — working remotely with clients worldwide
+## My Role
+I transform **technical challenges into robust, performant, and sustainable solutions**.  
 
-🛠️ **Tech Stack**: 
-   - JavaScript,
-   - TypeScript,
-   - Node.js,
-   - Next.js,
-   - React.js,
-   - MySQL,
-   - MongoDB,
-   - PostgreSQL
-   - and more
-     
+As an **end-to-end development expert**, I specialize in:
+- Modern architectures
+- API development
+- Continuous improvement: performance, security, quality  
 
-🚀 **Projects I'm building**:
+I tackle complex problems that require **rigor, foresight, and a product-oriented mindset**.
 
-*Azespace.com*
-A no-code website builder I started in 2024 as a side project. It’s now live and has daily signups and active users. If you want to build a website without coding, give it a try!
+---
 
-*Prolika.com*
-A professional platform designed to help job seekers increase their visibility and chances of getting hired. Recruiters can view all the important information directly on a candidate’s profile — no need for a traditional resume.
+## My Approach
+💡 **Business-driven solutions**  
+💬 **Clear communication**  
+🤝 **Flexible collaboration** — from short-term projects to long-term strategic support  
+
+---
+
+## What I Do
+- 🚀 **MVP creation and acceleration**  
+- 🔄 **Application revamps & critical feature additions**  
+- 🏗️ **Implementing best practices, architecture design & team mentoring**  
+- 🛠️ **Solving complex technical challenges:** performance, scalability, technical debt  
+
+---
+
+## Let's Connect
+Do you have an ambitious project or a technical challenge to solve?  
+**Contact me** and let's define the best strategy for your product together.  
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/mahady-manana/)
