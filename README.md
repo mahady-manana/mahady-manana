@@ -1,24 +1,29 @@
 # Hi, I'm Mahady Manana 👋
-**Fullstack Web Developer · Node.js · React.js · Next.js · NestJS**
+**Senior Full-Stack Developer | AI Agentic Developer | Product Builder**
 
 ---
 
-I am an experienced web developer with **6 years of expertise** in building modern web and mobile applications using **React.js, Next.js, NestJS, and Node.js**.  
+With **7+ years of experience**, I've evolved from traditional software development to AI-powered engineering, combining solid software fundamentals with **agentic workflows and AI coding tools** to build products faster and more efficiently.
 
-I help companies **design, develop, and scale reliable, high-performance applications**.
+My core stack revolves around **React.js, Next.js, NestJS, and Node.js**.
+
+I help companies **turn ideas and complex technical challenges into reliable, scalable, and high-performance products**.
 
 ---
 
-## My Role
-I transform **technical challenges into robust, performant, and sustainable solutions**.  
+## What I Do
 
-As an **end-to-end development expert**, I specialize in:
-- Modern architectures
-- API development
-- Continuous improvement: performance, security, quality  
+I work across the entire development lifecycle, from architecture and technical decisions to implementation, optimization, and deployment.
 
-I tackle complex problems that require **rigor, foresight, and a product-oriented mindset**.
+My areas of expertise include:
 
+- **Software Architecture:** Designing maintainable, scalable, and robust systems.
+- **Full-Stack Development:** Building modern web applications, APIs, and backend services.
+- **AI-Powered Engineering:** Leveraging AI agents and agentic workflows to accelerate development and solve complex problems.
+- **Performance & Quality:** Improving application performance, security, reliability, and maintainability.
+- **Product Engineering:** Making technical decisions with a strong focus on business goals and user experience.
+
+I believe great engineering goes beyond writing code. It's about **understanding the problem, making the right decisions, and building solutions that deliver real value.**
 ---
 
 ## My Approach
@@ -26,15 +31,7 @@ I tackle complex problems that require **rigor, foresight, and a product-oriente
 💬 **Clear communication**  
 🤝 **Flexible collaboration** — from short-term projects to long-term strategic support  
 
----
 
-## What I Do
-- 🚀 **MVP creation and acceleration**  
-- 🔄 **Application revamps & critical feature additions**  
-- 🏗️ **Implementing best practices, architecture design & team mentoring**  
-- 🛠️ **Solving complex technical challenges:** performance, scalability, technical debt  
-
----
 
 ## Let's Connect
 Do you have an ambitious project or a technical challenge to solve?  
